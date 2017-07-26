@@ -1,0 +1,38 @@
+#top-post{
+	border: 5px solid black;
+	height: 25px;
+	background-color: #DCDCDC;
+}
+.post{
+	
+	height: 24px;
+	background-color:#DCDCDC;
+}
+
+.post-content{
+	justify-content: center;
+	display: flex;
+	align-self: stretch;
+
+}
+
+.button{
+	height: 10px;
+	width: 10px;
+	background: gray;
+	margin:0 auto;
+}
+
+.buttons{
+	position:absolute;
+	bottom: 0;
+	left: 0;
+
+}
+
+body{
+	background:	#00FFFF;
+	text-align: center;
+	vertical-align: center;
+}
+
